@@ -1,6 +1,7 @@
 dist/
 resources/
 app/*/package-lock.json
+cpapp*.mtar
 
 # Logs
 logs
